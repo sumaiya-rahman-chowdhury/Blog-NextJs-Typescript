@@ -261,7 +261,7 @@ export const Navbar = () => {
         />
       </Box>
       <Box
-        className={`fixed top-0 left-0 w-full bg-black/90 backdrop-blur-lg 
+        className={`fixed top-0 left-0 z-30 w-full bg-black/90 backdrop-blur-lg 
   border border-white/20 flex flex-col items-center transition-all duration-300
   ${isOpen ? "h-screen opacity-100" : "h-0 opacity-0 overflow-hidden"}`}
       >
