@@ -36,7 +36,7 @@ const Slider: React.FC = () => {
               w="100%"
               h="100%"
               bg="black"
-              opacity="0.5"
+              opacity="0.8"
             />
 
             {/* Centered Content */}
@@ -50,16 +50,15 @@ const Slider: React.FC = () => {
               px={4}
             >
               <Heading
-                fontSize={{ base: "3xl", sm: "4xl", md: "5xl" }}
+                fontSize={{ base: "xl", sm: "2xl", md: "3xl" }}
                 fontWeight="bold"
                 textAlign="center"
-                mb="30px"
+                mb="20px"
               >
                 10 Most Awesome Breathtaking Places
               </Heading>
               <Text
                 fontSize={{ base: "sm", sm: "base", md: "lg" }}
-                mt={2}
                 textAlign="center"
               >
                 October 18, 2018 - Paul Newman
@@ -84,7 +83,7 @@ const Slider: React.FC = () => {
               w="100%"
               h="100%"
               bg="black"
-              opacity="0.5"
+              opacity="0.8"
             />
 
             {/* Centered Content */}
@@ -98,16 +97,15 @@ const Slider: React.FC = () => {
               px={4}
             >
               <Heading
-                fontSize={{ base: "3xl", sm: "4xl", md: "5xl" }}
+                fontSize={{ base: "xl", sm: "2xl", md: "3xl" }}
                 fontWeight="bold"
                 textAlign="center"
-                mb="30px"
+                mb="20px"
               >
                 How Nature Will Cure Your Depression
               </Heading>
               <Text
                 fontSize={{ base: "sm", sm: "base", md: "lg" }}
-                mt={2}
                 textAlign="center"
               >
                 October 18, 2018 - Paul Newman
@@ -133,7 +131,7 @@ const Slider: React.FC = () => {
               w="100%"
               h="100%"
               bg="black"
-              opacity="0.5"
+              opacity="0.8"
             />
 
             {/* Centered Content */}
@@ -147,16 +145,15 @@ const Slider: React.FC = () => {
               px={4}
             >
               <Heading
-                fontSize={{ base: "3xl", sm: "4xl", md: "5xl" }}
+                fontSize={{ base: "xl", sm: "2xl", md: "3xl" }}
                 fontWeight="bold"
                 textAlign="center"
-                mb="30px"
+                mb="20px"
               >
                 Top Amazing Places to Go in Summer
               </Heading>
               <Text
                 fontSize={{ base: "sm", sm: "base", md: "lg" }}
-                mt={2}
                 textAlign="center"
               >
                 October 18, 2018 - Paul Newman
