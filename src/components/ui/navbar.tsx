@@ -266,7 +266,9 @@ export const Navbar = () => {
   ${isOpen ? "h-screen opacity-100" : "h-0 opacity-0 overflow-hidden"}`}
       >
         {/* Close Button (Positioned at the Top) */}
-        <Button marginBottom="30px" bg="transparent"
+        <Button
+          marginBottom="30px"
+          bg="transparent"
           onClick={() => setIsOpen(false)}
           className="absolute top-5 right-5 text-white  text-3xl hover:text-orange-400 transition
          
